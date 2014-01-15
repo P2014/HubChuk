@@ -7,8 +7,8 @@ It has been successfully tested on Hubsan X4, Hubsan X4 FPV and Hubsan Q4.
 
 How to make one:
 ----------------
-- Parts are listed in the bill of materials (Documentation/Bill of materials.txt)
-- Hardware: wire everything according to the schematics (hardware/HubChukSchematic.jpg)
+- Parts are listed in the bill of materials (Hardware/Bill of materials.txt)
+- Hardware: wire everything according to the schematics (hardware/HubChuk_schematic.png)
 - Software: 
 	install the Arduino IDE
 	install the ArduinoNunchuk librairies (Software/External libs/ArduinoNunchuk) 

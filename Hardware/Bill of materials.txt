@@ -15,5 +15,4 @@ or 1 x A7105 medium range  	eBay
 
 1 x ST LF50A 5V linear reg.	Radiospares, Farnell, Mouser, Digikey, etc. Any 5V/500mA linear regulator is ok.
 
-
-
+1 x battery (6-12V)		Radiospares, R/C hobby shops. 1 or 2s lithium ion polymer is fine.
