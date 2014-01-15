@@ -1,0 +1,19 @@
+HubChuk - Bill of materials
+---------------------------
+
+1 x Nintendo Nunchuk		anywhere
+
+1 x XL7105-SY module 		Dealextreme
+or 1 XL7105-CL 			Suntek store
+or 1 x A7105 medium range  	eBay
+
+1 x Lilypad Arduino USB		https://www.sparkfun.com/products/11190
+
+1 x 22K resistor 1/4W		Radiospares, Farnell, Mouser, Digikey, etc.
+
+1 x 10uF electrolytic capacitor	Radiospares, Farnell, Mouser, Digikey, etc. 
+
+1 x ST LF50A 5V linear reg.	Radiospares, Farnell, Mouser, Digikey, etc. Any 5V/500mA linear regulator is ok.
+
+
+
