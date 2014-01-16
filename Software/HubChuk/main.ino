@@ -60,7 +60,7 @@ void loop() {
     // Serial.print("waitTime: " ); Serial.println(waitTime);
     // waitTime = hubsanWait - (micros() - startTime);
     
-    delayMicroseconds(hubsanWait - 280); // 280=magic number, avec cette attente bind rapide et comms ok.
+    delayMicroseconds(hubsanWait - 300); // 280=magic number, avec cette attente bind rapide et comms ok.
     startTime = micros();  
      
   }
