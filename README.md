@@ -2,8 +2,9 @@ HubChuk
 =======
 
 HubChuk is natural remote control for Hubsan multirotors, based on a Wii Nunchuk as an intuitive remote control and a A7105 transceiver as an RF link.
+HubChuk stands for "Hubsan Nunchuk".
 
-It has been successfully tested on Hubsan X4, Hubsan X4 FPV and Hubsan Q4.
+HubChuk has been successfully tested on Hubsan X4, Hubsan X4 FPV and Hubsan Q4.
 
 How to make one:
 ----------------
